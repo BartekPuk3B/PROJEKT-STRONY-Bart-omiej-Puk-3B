@@ -1,0 +1,38 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#e8e8e8;
+}
+header{
+    text-align: center;
+    background-color:salmon;
+    color:white;
+    height:100px;
+    font-size:40px;
+    order:1;
+}
+body{
+
+    flex-direction: column;
+}
+main{
+   order:2; 
+   
+}
+aside{
+    order:2;
+    width:30%;
+}
+#menu{
+    background-color: salmon;
+    color:white;
+    font-size:30px;
+    
+}
+#menu-content{
+    background-color: salmon;
+    color:white;
+    
+}
+footer{
+    text-align:center;
+}
